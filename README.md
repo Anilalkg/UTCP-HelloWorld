@@ -132,11 +132,16 @@ You can expose this UTCP tool directly to **Claude Code CLI** using Model Contex
    ```
 
 2. **Launch Claude Code and Query:**
+
    ```bash
    claude
    ```
+
    _Prompt inside Claude Code:_
+
    > "Search for broker CRD 4455114 on FINRA BrokerCheck and summarize their current registration status."
+
+   > "Can you find details for Bradford Schreck using the FINRA tool?"
 
 ---
 

@@ -31,7 +31,7 @@ async def search_finra_individual(query: str, includePrevious: bool = True, nrow
     
     Args:
         query: The individual's CRD number or name search query (e.g., '4455114').
-        includePrevious: Whether to include previous employment history.
+        includePrevious: Whether to include previous employment histories.
         nrows: Number of records to return.
     """
     client = await get_utcp_client()

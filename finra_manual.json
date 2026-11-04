@@ -4,7 +4,7 @@
     "tools": [
         {
             "name": "search_individual",
-            "description": "Search for financial brokers and investment professionals by CRD number or name query.",
+            "description": "Search for financial brokers and investment professionals by CRD number OR name query.",
             "inputs": {
                 "type": "object",
                 "properties": {

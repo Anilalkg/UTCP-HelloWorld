@@ -2,6 +2,7 @@
 
 Requires: pip install anthropic python-dotenv utcp
 Environment: ANTHROPIC_API_KEY, AZURE_AI_ENDPOINT, AZURE_CLAUDE_DEPLOYMENT
+
 Manual: ./finra_manual.json
 """
 

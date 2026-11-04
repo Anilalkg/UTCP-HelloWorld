@@ -37,7 +37,7 @@ def required_env(name: str) -> str:
 
 # def get_tools(client):
 #     """Get registered tools; support UTCP versions with async list_tools."""
-#     return client.list_tools()
+#     return client.list_tools() 
 
 
 def get_tools(client):
