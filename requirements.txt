@@ -13,7 +13,7 @@ mcp>=1.0.0
 
 # LLM Frameworks & API Clients
 anthropic>=0.25.0
-langchain-core>=0.2.0
+# langchain-core>=0.2.0
 
 # Environment & Utilities
 python-dotenv>=1.0.0
